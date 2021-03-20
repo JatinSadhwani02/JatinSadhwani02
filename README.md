@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to Data science ,  Machine Learning, Deep Learning , Natural Language Processing, Flask or Programming will try my best to answer.
 - 😄 I am a Computer Engineer Student of IET-DAVV indore.
 
-- <details> <summary> 📫 How to reach me::</summary><a href="mailto:shrutijain2may@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
+- <details> <summary> 📫 How to reach me::</summary><a href="mailto:jatinsadhwani.1234@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
 </details>
 
 <img height="30" src="https://img.shields.io/badge/Languages and  tools- 📚-lightblue.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 
 <br>
-<img height="27" src="https://img.shields.io/badge/Shruti Jain's GitHub Status --lightgreen.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutijain0&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=Hello! 👏&layout=compact" alt="Shruti Jain"/></p>
+<img height="27" src="https://github-readme-stats.vercel.app/api?username=JatinSadhwani02&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=Hello!%20%F0%9F%91%8F&layout=compact" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutijain0&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=Hello! 👏&layout=compact" alt="Jatin Sadhwani"/></p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutijain0&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
@@ -33,7 +33,9 @@ Here are some ideas to get you started:
     <img src="https://github-profile-trophy.vercel.app/?username=shrutijain0&theme=gruvbox&layout=compact&title_color=00FF00"/>
   </a>
 </p>
-</details>
+</details> 
+
+
 <details>
   <summary>Most used languages :heart: </summary>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutijain0&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="shrutijain0" /></p>
