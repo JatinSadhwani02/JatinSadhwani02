@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with another fresher to work on End to End Project.
 - 💬 Ask me about anything related to Data science ,  Machine Learning, Deep Learning , Natural Language Processing, Flask or Programming will try my best to answer.
 - 😄 I am a Computer Engineer Student of IET-DAVV indore.
-<img src="https://giphy.com/gifs/4H3Ii5eLChYul9p7NL/html5"/>
+(https://github.com/Kushal997-das/Project-Guidance.git)
 
 - <details> <summary> 📫 How to reach me::</summary><a href="mailto:jatinsadhwani.1234@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
 </details>
