@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/python-original.svg" alt="python" width="40" height="40"/>
   <img alt="pycharm"  src="https://img.icons8.com/color/240/000000/pycharm.png"width="50" height="40" /> 
   <img alt="github"  src="https://img.icons8.com/ios-glyphs/240/000000/github.png"width="40" height="40">
-  <img align="right" alt="Code" width="400px" src="https://github.com/JatinSadhwani02/JatinSadhwani02/blob/main/code2.jpg"/>
+  <img align="right" alt="Code" width="330px" src="https://github.com/JatinSadhwani02/JatinSadhwani02/blob/main/code2.jpg"/>
 </p>
 
 
