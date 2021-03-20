@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 <br>
 <img height="27" src="https://github-readme-stats.vercel.app/api?username=JatinSadhwani02&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=Hello!%20%F0%9F%91%8F&layout=compact" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutijain0&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=Hello! 👏&layout=compact" alt="Jatin Sadhwani"/></p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutijain0&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JatinSadhwani02&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=shrutijain0&theme=gruvbox&layout=compact&title_color=00FF00"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=JatinSadhwani02&theme=gruvbox&layout=compact&title_color=00FF00"/>
   </a>
 </p>
 </details> 
@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 
 <details>
   <summary>Most used languages :heart: </summary>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutijain0&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="shrutijain0" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinSadhwani02&title_color=FF69B4&custom_title=Most%20Used%20Languages%20:D%20&layout=compact&theme=highcontrast&langs_count=10" alt="shrutijain0" /></p>
 </details> <br>
-<h4 align="left">Show ❤️ By Starring My <a href='https://github.com/shrutijain0?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-lightpink.svg?&style=for-the-badge&logo=shrutijain0&logoColor=blue" /></a></h4>
+<h4 align="left">Show ❤️ By Starring My <a href="https://github.com/JatinSadhwani02?tab=repositories%27%3E%3Cimg%20align=%27center%27%20%20height=%2222%22%20src=%22https://img.shields.io/badge/Repos!%F0%9F%98%8A-lightpink.svg?&style=for-the-badge&logo=shrutijain0&logoColor=blue" /></a></h4>
 <br>
 <h4 align="left">Hey 👋 wanna connect!<img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px"></h4> <br>
 <a href="https://www.linkedin.com/in/shruthi-jain-81b4571ab/">
