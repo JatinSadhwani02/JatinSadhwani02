@@ -12,8 +12,16 @@ Here are some ideas to get you started:
 </details>
 
 <img height="30" src="https://img.shields.io/badge/Languages and  tools- 📚-lightblue.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
-<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/java-original.svg" alt="java" width="40" height="40"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/python-original.svg" alt="python" width="40" height="40"/> <img alt="pycharm"  src="https://img.icons8.com/color/240/000000/pycharm.png"width="50" height="40" /> <img alt="github"  src="https://img.icons8.com/ios-glyphs/240/000000/github.png"width="40" height="40">
+
+<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/java-original.svg" alt="java" width="40" height="40"/> 
+  <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/python-original.svg" alt="python" width="40" height="40"/>
+  <img alt="pycharm"  src="https://img.icons8.com/color/240/000000/pycharm.png"width="50" height="40" /> 
+  <img alt="github"  src="https://img.icons8.com/ios-glyphs/240/000000/github.png"width="40" height="40">
 </p>
+
+
 <br>
 <img height="27" src="https://img.shields.io/badge/Shruti Jain's GitHub Status --lightgreen.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutijain0&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=Hello! 👏&layout=compact" alt="Shruti Jain"/></p>
