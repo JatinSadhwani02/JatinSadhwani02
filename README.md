@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" alt="GIF" width="500px" src="https://github.com/JatinSadhwani02/JatinSadhwani02/blob/main/gif.mp4"/>
+<img align="right" alt="GIF" width="500px" src="https://github.com/shrutijain0/shrutijain0/blob/main/ezgif.com-video-to-gif.gif"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Science , Machine Learning, Deep Learning , Natural Language Processing and Flask Projects.
