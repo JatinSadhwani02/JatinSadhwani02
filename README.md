@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/python-original.svg" alt="python" width="40" height="40"/>
   <img alt="pycharm"  src="https://img.icons8.com/color/240/000000/pycharm.png"width="50" height="40" /> 
   <img alt="github"  src="https://img.icons8.com/ios-glyphs/240/000000/github.png"width="40" height="40">
-  <img align="right" alt="Code" width="450px" src="https://github.com/JatinSadhwani02/JatinSadhwani02/blob/main/code2.jpg"/>
+  <img align="right" alt="Code" width="480px" src="https://github.com/JatinSadhwani02/JatinSadhwani02/blob/main/code2.jpg"/>
 </p>
 
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JatinSadhwani02&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=Hello!%20%F0%9F%91%8F&layout=compact" alt="JatinSadhwani02"/></p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JatinSadhwani02&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
 <details align="center">
-  <summary>GitHub Trophies 🏆</summary>
+GitHub Trophies 🏆
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=JatinSadhwani02&theme=gruvbox&layout=compact&title_color=00FF00"/>
