@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/python-original.svg" alt="python" width="40" height="40"/>
   <img alt="pycharm"  src="https://img.icons8.com/color/240/000000/pycharm.png"width="50" height="40" /> 
   <img alt="github"  src="https://img.icons8.com/ios-glyphs/240/000000/github.png"width="40" height="40">
-  
+  <img align="right" alt="Code" width="450px" src="https://github.com/JatinSadhwani02/JatinSadhwani02/blob/main/code2.jpg"/>
 </p>
 
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 </details> 
-<img align="right" alt="Code" width="450px" src="https://github.com/JatinSadhwani02/JatinSadhwani02/blob/main/code2.jpg"/>
+
 <details>
   <summary>Most used languages :heart: </summary>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinSadhwani02&title_color=FF69B4&custom_title=Most%20Used%20Languages%20:D%20&layout=compact&theme=highcontrast&langs_count=10" alt="JatinSadhwani02" /></p>
