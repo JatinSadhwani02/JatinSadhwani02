@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </p>
 </details> 
 
-
+<img align="right" alt="GIF" width="500px" src="https://github.com/JatinSadhwani02/JatinSadhwani02/blob/main/code2.jpg"/>
 <details>
   <summary>Most used languages :heart: </summary>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinSadhwani02&title_color=FF69B4&custom_title=Most%20Used%20Languages%20:D%20&layout=compact&theme=highcontrast&langs_count=10" alt="JatinSadhwani02" /></p>
