@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   <img alt="github"  src="https://img.icons8.com/ios-glyphs/240/000000/github.png"width="40" height="40">
 </p>
 
+<img align="right" alt="GIF" width="500px" src="https://github.com/JatinSadhwani02/JatinSadhwani02/blob/main/code2.jpg"/>
 
 <br>
 <img height="27" src="https://github-readme-stats.vercel.app/api?username=JatinSadhwani02&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=Hello!%20%F0%9F%91%8F&layout=compact" />
@@ -36,7 +37,6 @@ Here are some ideas to get you started:
 </p>
 </details> 
 
-<img align="right" alt="GIF" width="500px" src="https://github.com/JatinSadhwani02/JatinSadhwani02/blob/main/code2.jpg"/>
 <details>
   <summary>Most used languages :heart: </summary>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinSadhwani02&title_color=FF69B4&custom_title=Most%20Used%20Languages%20:D%20&layout=compact&theme=highcontrast&langs_count=10" alt="JatinSadhwani02" /></p>
