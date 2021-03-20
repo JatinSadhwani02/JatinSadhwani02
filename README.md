@@ -1,5 +1,5 @@
-### Hi there 👋
-<img align="right" alt="GIF" width="500px" src="https://github.com/JatinSadhwani02/JatinSadhwani02/blob/main/code.jpg"/>
+## Hello there 👋
+<img align="right" alt="Code" width="500px" src="https://github.com/JatinSadhwani02/JatinSadhwani02/blob/main/code.jpg"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Science , Machine Learning, Deep Learning , Natural Language Processing and Flask Projects.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/python-original.svg" alt="python" width="40" height="40"/>
   <img alt="pycharm"  src="https://img.icons8.com/color/240/000000/pycharm.png"width="50" height="40" /> 
   <img alt="github"  src="https://img.icons8.com/ios-glyphs/240/000000/github.png"width="40" height="40">
-  <img align="right" alt="GIF" width="300px" src="https://github.com/JatinSadhwani02/JatinSadhwani02/blob/main/code2.jpg"/>
+  <img align="right" alt="Code" width="450px" src="https://github.com/JatinSadhwani02/JatinSadhwani02/blob/main/code2.jpg"/>
 </p>
 
 
