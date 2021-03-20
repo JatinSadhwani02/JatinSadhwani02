@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 
 
 <br>
-<!-- <img height="27" src="https://github-readme-stats.vercel.app/api?username=JatinSadhwani02&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=Hello!%20%F0%9F%91%8F&layout=compact" /> -->
-
-<img align="right" alt="Code" width="330px" src="https://github.com/JatinSadhwani02/JatinSadhwani02/blob/main/code2.jpg"/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JatinSadhwani02&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=Hello!%20%F0%9F%91%8F&layout=compact" alt="JatinSadhwani02"/></p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JatinSadhwani02&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
 <details align="center">
