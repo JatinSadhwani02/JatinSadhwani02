@@ -44,9 +44,6 @@ Here are some ideas to get you started:
 <h4 align="left">Show ❤️ By Starring My <a href="https://github.com/JatinSadhwani02?tab=repositories%27%3E%3Cimg%20align=%27center%27%20%20height=%2222%22%20src=%22https://img.shields.io/badge/Repos!%F0%9F%98%8A-lightpink.svg?&style=for-the-badge&logo=JatinSadhwani02&logoColor=blue" /></a></h4>
 <br>
 <h4 align="left">Hey 👋 wanna connect!<img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px"></h4> <br>
-<a href="https://www.linkedin.com/in/shruthi-jain-81b4571ab/">
+<a href="https://www.linkedin.com/in/jatin-sadhwani-404531152">
   <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="kushal's linkedin" width="24px" />
-</a>
-<a href="https://twitter.com/ShrutiJ87241031" target="blank">
-  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="26px" />
 </a>
