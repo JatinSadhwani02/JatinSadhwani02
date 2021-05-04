@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to Data science ,  Machine Learning, Deep Learning , Natural Language Processing, Flask or Programming will try my best to answer.
 - 😄 I am a Computer Engineer Student of IET-DAVV indore.
 
-- <details> <summary> 📫 How to reach me:</summary><a href="mailto:jatinsadhwani.1234@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
+- <details> <summary> 📫 How to reach me :</summary><a href="mailto:jatinsadhwani.1234@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
 </details>
 
 <img height="30" src="https://img.shields.io/badge/Languages and  tools- 📚-lightblue.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
