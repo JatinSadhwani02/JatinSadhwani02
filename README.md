@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JatinSadhwani02&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=Hello!%20%F0%9F%91%8F&layout=compact" alt="JatinSadhwani02" /></p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JatinSadhwani02&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JatinSadhwani02&theme=radical&custom_title=streak-stats&hide_border=False&layout=compact" />
 <details align="center">
 <summary>  GitHub Trophies 🏆  </summary>
 <p align="center">
